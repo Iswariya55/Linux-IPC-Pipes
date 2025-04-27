@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: ISWARIYA R
 
-Regno: 212223240036
+Regno: 212224220039
 
 # Ex03-Linux IPC - Pipes
 
